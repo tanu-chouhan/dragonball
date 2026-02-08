@@ -16,11 +16,9 @@ FEATURES
 --------------------------------------------------
 
 SCREENSHOTS
+<img width="1500" height="700" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/7c17bfba-6f82-4172-bdc8-9de5fb3059d6" />
 
-![WhatsApp Image 2026-02-08 at 12 58 55 PM](https://github.com/user-attachments/assets/5d4ccb17-9728-4a86-8165-6867452402ef)
-![WhatsApp Image 2026-02-08 at 12 58 53 PM](https://github.com/user-attachments/assets/d8f8c852-97fe-4cdc-9b43-7a0691b11e62)
-![WhatsApp Image 2026-02-08 at 12 58 54 PM (1)](https://github.com/user-attachments/assets/715ce629-748f-487c-baf5-255692ecbad2)
-![WhatsApp Image 2026-02-08 at 12 58 54 PM](https://github.com/user-attachments/assets/e4a85175-04f3-4c65-ab45-0a8d65e226f5)
+
 
 
 --------------------------------------------------
